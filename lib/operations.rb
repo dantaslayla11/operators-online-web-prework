@@ -1,6 +1,7 @@
 def unsafe?(speed)
-  if speed = (90) 
-    puts unsafe? > 
+  if unsafe? = (90) 
+    puts unsafe? > (60) 
+  end
 
 end
 
